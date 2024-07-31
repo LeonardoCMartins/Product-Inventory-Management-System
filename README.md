@@ -15,6 +15,9 @@ O sistema permite que os usuários realizem operações CRUD (Criar, Ler, Atuali
 - Frontend: Thymeleaf, Bootstrap
 - Banco de Dados: MySQL
 
+## Preview:
+![image preview](preview1.jpeg)
+
 ## Instruções de Configuração
 
 ### Pré-requisitos
